@@ -1,0 +1,14 @@
+{
+  "region": "us-east-1",
+  "privateZone": false,
+  "domain": "evelynholtzner.com",
+  "subdomains": [
+    {
+      "domain": "www.evelynholtzner.com",
+      "distributionId": "E1ZZCOTPSUG0H6",
+      "url": "https://d27572rwxqzret.cloudfront.net",
+      "type": "awsCloudFront"
+    }
+  ],
+  "domainMinimumProtocolVersion": "TLSv1.2_2018"
+}
