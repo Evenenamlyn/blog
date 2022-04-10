@@ -1,8 +1,8 @@
 ---
-title: 'Lorem ipsum dolor sit amet'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'Hello World'
+excerpt: 'Decided to Challenge myself recently by taking a dive into Next.JS and seeing how quickly I could turn around a Staticly Generated Blog with it. I believe my time log for this now would be at about 8 hours total work over two weekends.'
 coverImage: '/assets/blog/hello-world/cover.jpg'
-date: '2022-04-03T13:28:00'
+date: '2022-04-09T17:00:00'
 author:
   name: Evelyn Holtzner
   picture: '/assets/blog/authors/evelyn.jpeg'
@@ -10,10 +10,5 @@ ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
-
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
-
-## Lorem Ipsum
-
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Decided to Challenge myself recently by taking a dive into Next.JS and seeing how quickly I could turn around a Staticly Generated Blog with it. I believe my time log for this now would be at about 8 hours total work over two weekends.
+I will likely keep this around for a while to post any projects I might decide to document and share. Hope there will be some more in the works after this, Will probably see what NextJS is like working with Restful API's or something a bit more technical. This blog is also the first project I will be forcing myself to use eslint and decided to use googles public rule set. I have disabled require-jsdoc for now but will likely continue on this project and take the time to fix everything up for that. I started from an Example provided by Next.JS for this but put in some work tearing it apart and tweaking it to my need. Overall pretty happy with the results considering I do Operations for a living. All content for this is written in MD and Next.JS handles proccessing that to HTML for me and it is also my first time using MD. I have been very pleased with the workflow for generating this introductory post and look forward to developing my skills with all that is possible with this stack. 

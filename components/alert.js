@@ -1,8 +1,9 @@
-import Container from './container'
-import cn from 'classnames'
-import { GITHUB_BLOG } from '../lib/constants'
+import Container from './container';
+import cn from 'classnames';
+import {GITHUB_BLOG} from '../lib/constants';
+import React from 'react';
 
-export default function Alert({ preview }) {
+export default function Alert({preview}) {
   return (
     <div
       className={cn('border-b', {
@@ -13,14 +14,14 @@ export default function Alert({ preview }) {
       <Container>
         <div className="py-2 text-center text-sm">
               Work In Progress - Follow along on&nbsp;
-              <a
-                href={`${GITHUB_BLOG}`}
-                className="underline hover:text-success duration-200 transition-colors"
-              >
+          <a
+            href={`${GITHUB_BLOG}`}
+            className="underline hover:text-success transition-colors"
+          >
                 GitHub
-              </a>
+          </a>
         </div>
       </Container>
     </div>
-  )
+  );
 }

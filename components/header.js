@@ -1,12 +1,12 @@
-import Link from 'next/link'
-import { WEB_NAME } from '../lib/constants'
+import Link from 'next/link';
+import React from 'react';
 
 export default function Header() {
   return (
-    <h4 className="text-xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8">
+    <h4 className="text-sm md:text-sm font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8">
       <Link href="/">
-        <a className="hover:underline">cd ~</a>
+        <a className="hover:underline">Back</a>
       </Link>
     </h4>
-  )
+  );
 }
